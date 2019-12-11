@@ -1,0 +1,59 @@
+# Education Template
+- layout: left
+  name: ITS Institute
+  dates: 1999 - 2000
+  qualification: Microsoft Access Developer I & II
+  quote: >
+    MS Database Access Developer
+  description: | # this will include new lines to allow paragraphs
+    ~ Database Design and Development
+    ~ MSSQL
+    ~ Application Development
+    ~ Networking TCIP
+
+- layout: left
+  name: Macomb College / State
+  dates: 1996 - 1998
+  qualification: Associate in Art ( Design )
+  quote: >
+    Discover, Connect, Advance.
+  description: | # this will include new lines to allow paragraphs
+
+    ~ Technical writing
+    ~ Building materials and methods
+    ~ Mechanical drafting
+    ~ Architectural drafting and design
+
+- layout: left
+  name: Clintondale Tech
+  dates: 1995 - 1996
+  qualification: CAD/CAM/CMM
+  quote: >
+    Certified Automotive Drafter
+  description: | # this will include new lines to allow paragraphs
+    ~ 3-D modeling
+    ~ AutoCAD and CAD/CAM software
+    ~ CMM Operations / Programming
+
+- layout: left
+  name: Design Side Inc.
+  dates: 1994 - 1998
+  qualification: Apprenticeship
+  quote: >
+    Wood Model Maker Apprentice
+  description: | # this will include new lines to allow paragraphs
+    ~ Layup Techniques
+    ~ Blueprint Reading
+    ~ CNC Setups
+    ~ Material Setups
+
+- layout: left
+  name: Grosse Pointe North
+  dates: 1994 - 1996
+  qualification: General Studies
+  quote: >
+    High School General Studies
+  description: | # this will include new lines to allow paragraphs
+    ~ Drafting I, II, III
+    ~ Building Trades I, II
+    ~ Computer science I, II

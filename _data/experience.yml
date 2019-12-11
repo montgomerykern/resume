@@ -1,0 +1,119 @@
+# Experience template
+- layout: left
+  company: Design Side Inc
+  link:
+  job_title: Model Maker / Apprentice
+  dates: 1994 - 1998
+  quote: >
+   Custom Wood Model Making
+  description: | # this will include new lines to allow paragraphs
+    I worked as an apprentice wood model maker under the direct supervision of a Master Builder & 2 Journey Pattern Makers. I learned to work in extreme precision with specialy tools and instruments to create models from hand crafted and shaped molds of specific automotive or manufacturing parts for prototype testing and design. I was fortunate enough to work through a number of projects and transitioned into the CAD/CAM department to work more directly in design. I have a full mastery of the concepts, practices and requirements and possess the tooling experience to complete any model requirements. I worked on a number of projects for Saturn, Toyota, Cadillac and General Motors.
+
+    - Blueprint Reading
+    - Height Gauge - Precision Measuring Instruments
+    - CMM Measuring
+    - Material Thickness
+    - Resin Work High Density
+    - Master Precision Mold Crafting
+    - FiberGlass Layups
+    - Carbon Fibre Layups
+    - Precision Shaping
+    - Machining Bridgeport
+
+- layout: left
+  company: Escod Industries
+  link:
+  job_title: CAD / Drafter / Designer
+  dates: 1998 - 2000
+  quote: >
+   A division of Insilico Technologies
+  description: | # this will include new lines to allow paragraphs
+    Originally hired to work the telecom side of the company. After a few weeks due to my automotive experience i was moved permanently to the drafting and engineering department at another facility. I worked with the design and sales teams develop a set of documents that could be used to create estimates and later build the first prototypes of the automotive wire harness for the clients.
+
+    I worked on a number of projects at this company for some very noteworthy names. I also worked through out the entire ISO9000 Certificaion process and helped to author most of the engineering departments job and quality control documentation and systems.
+
+    - Ingersol Rand, Boeing, America La France, Atlas Crane, Honda, Northern Telecom, IBM, Hewlett Packard, Kodak, Dell, Qualcom
+    - ISO (9000) Certified facility
+    - AutoCad R12 - SumaJet - Graflex - MasterCam
+    - Test Fixture Design - Build
+
+- layout: left
+  company: Madison Precision Inc
+  link:
+  job_title: Quality Control Statistician
+  dates: 2000 - 2001
+  quote: >
+   Precision Die Cast Machine Shop
+  description: | # this will include new lines to allow paragraphs
+    As a Quality Control Statistician - I was in direct control of all of the production and reject ratio data and statistics of the company. I maintained and added to a continuos integration database system for tracking rejected parts and the corrective action systems. Daily data analysis - System Entry - Weekly Reporting - Monthly Master Reporting - Corrective Action Managment - CMM Data Analysis
+
+    Working directly with each of the department managers to record, analyze and develop a corrective action plan if neccesary to lower the departments rejection ratio. The monthly reports generated from the system were compliled and checked second hand to the paper ticket system and then delivered to everyone for the monthly company wide production meeting.
+    - Honda Automotive Supplier
+    - ISO (9000) Certified facility
+    - MSSQL - Hand Tooled Quality Database Systems
+    - MSACCESS - Hand Tooled Application
+    - Windows Server Management / Setup Configs
+    - Quality Departments Documentation Management
+
+- layout: left
+  company: Holiday House Resort
+  link:
+  job_title: Chief Maintenance Manager
+  dates: 2001 - 2003
+  quote: >
+    A Family Owned Resort & Business
+  description: | # this will include new lines to allow paragraphs
+    I was the Senior Maintenance Manager for 4 Hotels, A pier, a restraurant, a dance studio and multiple other properties all under the same company ownership. I also managed and cared for 4 separate swimming pools 4 Hot Tubs. Under my management a team of 3 maintenance employees were able to care for over 90+ Hotel rooms with an occupancy rate of over 95% in summer. This was a challenging position at the company with such a large amount of traffic to the rooms the properties were met with alot of non traditional problems that required quick action and preparedness to keep customers and guests happy.
+    - 4 Oceanfront Hotels
+    - Maintenance Records development
+    - Project management
+    - Renovations / Construction
+    - Landscaping / Grounds
+    - Pier Maintenance
+    - Commercial Maintenance - Electrical - Plumbing - Roofing - Concrete
+
+- layout: left
+  company: VR Marketing Inc
+  link:
+  job_title: Visual Artist / System Engineer / Developer
+  dates: 2004 - 2010
+  quote: >
+   A Revolution in Image.
+  description: | # this will include new lines to allow paragraphs
+
+      I was part of a startup team of 3 that was focused on the Hospitality and service industry for web development, photography, videography and virtual tours. I worked on so many different projects at this company from 3D Prototype Rendered Videos for inventors to full scale single & multi-family home prints and renderings. We also mastered the art of the HD virtual tour photography and 3d Golf Course Rendering from GPS Mapping.
+
+      - System Administrator - Colo Boxes - Rackspace - PLESK - MYSQL - RHEL - Exchange - Apache - PHP - Postfix
+      - Networking / Load Balancing / DNS Management
+      - System Configs / Procurement / Customer Support
+      - Autocad architecture 2006 
+      - 3D Studio Max - VRAY renderings
+      - RealViz Studios
+      - Workstation PC Spec & Builds
+      - Network Rendering Node Management
+
+- layout: left
+  company: Andemo LLC
+  link:
+  job_title: Chief Technical Officer / Systems Engineer
+  dates: 2010 - 2016
+  quote: >
+       Andiemo - 'Let's Go!'
+  description: | # this will include new lines to allow paragraphs
+            In my role at this company I wore a number of hats including systems admin, systems engineer, client support, exchange & dedicated mail administrator with a client base of +250 exhange users and 300 dedicated email users. I frequently was pulled into offices to consult on programming or system architecture. I implemented the first web based support and client management system and organized a 40 - 60 email mess into an organized and productive ticket workflow for the support and development teams. I was heavily involved in the consolidation and implementation of the companies first cloud environment and helped to cut operating costs down by over 40%
+            - Chief System Administrator - Full Rack Colocated Boxes - Rackspace ~ Softlater - MYSQL - RHEL - Exchange - NGINX - Apache - PHP - CentOS - Debian
+            - Email Support - 500 + Users Hotelier, ISP Mail Microsoft Exchange - Mobile Device Support
+            - AWS Architecture - Cloud Based Replacement
+            - Server Migrations / Linux - Plesk - Webmin - CPanel
+            - Networking / Cloud Architecure / Load Balancing / DNS Management 200 + Domains
+            - Rack Box Installs / System Configs / Procurement / Customer Support
+
+
+- layout: left
+  company: Hooks Consulting Inc.
+  link:
+  job_title: Director of Operations
+  dates: 2017 - 2019
+  quote: >
+   Hospitality & Commercial Equipment
+  description: | # this will include new lines to allow paragraphs

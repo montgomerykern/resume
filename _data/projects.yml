@@ -1,0 +1,9 @@
+# Project template
+- layout: top-middle
+  name: ProFinder Charts
+  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    A revolution in fishing technologies & Navigation
+  description: | # this will include new lines to allow paragraphs
+    Senior Developer - Designer
